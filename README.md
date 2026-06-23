@@ -1,1 +1,4 @@
-# democontribution
+# contributors
+ - pranavkhaspa
+ - anup
+
